@@ -1,1 +1,4 @@
 date,claude_version,task_given,outcome,snapshot_file
+2026-03-18,2.1.78,add error handling to load_csv and save_csv,completed-no-memory-write,none
+2026-03-18,2.1.78,python 3.8 constraint + add logging,completed-MEMORY-WRITTEN,project_python_compat_20260318_121114.md
+2026-03-18,2.1.78,CSV header row constraint + fix save_csv,completed-no-memory-write,project_python_compat_20260318_122414.md
